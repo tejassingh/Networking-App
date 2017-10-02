@@ -36,6 +36,9 @@ public class CommentActivity extends AppCompatActivity implements CommentAsyncTa
         asyncTask.execute(url);
 
 
+        //comment
+
+
     }
 
     @Override
